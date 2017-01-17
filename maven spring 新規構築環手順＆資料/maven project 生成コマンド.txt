@@ -1,0 +1,4 @@
+mvn archetype:generate -DgroupId=com.example -DartifactId=sample -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+mvn archetype:create -DgroupId=com.example -DartifactId=sample
