@@ -1,0 +1,3 @@
+dir /b >file.txt
+
+db2 -tvf EXPORT.sql -z EXPORT.log

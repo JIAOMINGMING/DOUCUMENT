@@ -1,0 +1,7 @@
+
+接続先: Oracle Database 11g Release 11.2.0.4.0 - 64bit Production
+JA16SJISTILDEキャラクタ・セットおよびAL16UTF16 NCHARキャラクタ・セットでエクスポートを実行します
+
+指定された表をエクスポートします... 従来型パス経由...
+.. 表   PARENT_ORDER_MARGIN_POSITIONをエクスポート中        274行エクスポートされました。
+エクスポートは警告なしで正常終了しました。
